@@ -13,8 +13,8 @@ fim: 13/04/22.
 Objetivos:
 
 	1. Estudar Markdown;
-  2. Escrever o Readme;
-  3. Configurar ambiente de desenvolvimento;
+  	2. Escrever o Readme;
+  	3. Configurar ambiente de desenvolvimento;
 	4. Rodar primeiro programa local;
 	5. Iniciar os estudos em html/css;
 	6. Resolver um exercício de lógica.
