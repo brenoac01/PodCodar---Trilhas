@@ -2,7 +2,7 @@
 
 ## Trilha 01 - Introdução à Programação
 
-As atividades aqui realizadas são um ponto de partida para o aprendizado de programação com vistas ao desenvolvimento web. Estão dividas em Sprints em constante construção.
+As atividades aqui realizadas são um ponto de partida para o aprendizado de programação com vistas ao desenvolvimento web. Estão divididas em Sprints em constante construção.
 
 ### 1ª Sprint:
 
